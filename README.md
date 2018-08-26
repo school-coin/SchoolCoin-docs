@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/turtlecoin/turtlecoin-docs.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin-docs)
 
-# turtlecoin-docs
-:turtle: :turtle: :turtle: Documentation for all things TurtleCoin:turtle: :turtle: :turtle:
+# schoolcoin-docs
+Documentation for all things SchoolCoin:
 
 ## About
 This repository is the **official** home of all TurtleCoin documentation and should be regarded as the *single source of truth* for all 'official' or officially supported TurtleCoin projects. Because of the distributed, open, community-driven nature of our development teams, we believe the easiest approach to managing our documentation is to organize all of it in this central repository. This helps to avoid duplication and inconsistency and relieves contributors from having to track down and edit multiple documents in multiple places.  
