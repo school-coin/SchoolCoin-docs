@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/turtlecoin/turtlecoin-docs.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin-docs)
 
-# schoolcoin-docs
+# SchoolCoin-docs
 Documentation for all things SchoolCoin, directly referenceing documents forked from turtlecoin:
 
 ## About
