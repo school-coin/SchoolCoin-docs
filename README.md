@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/16671269/44633481-f187a580-a940-11e8-8332-d019377894ba.png)
+
 [![Build Status](https://travis-ci.org/turtlecoin/turtlecoin-docs.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin-docs)
 
 # SchoolCoin-docs
